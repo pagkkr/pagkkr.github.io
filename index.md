@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/2023-annual-meeting.jpg
     alt: "annual meeting"
     title: "PAGK meeting 2023"
-    excerpt: '대전'
+    excerpt: '대전 기초과학연구원과학문화센터'
     url: "/annual meeting"
     btn_label: "Read More"
     btn_class: "btn--primary"
