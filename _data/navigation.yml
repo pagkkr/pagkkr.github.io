@@ -1,0 +1,45 @@
+# main links
+main:
+  - title: 'PAGK'
+    url: /pagk/about
+  - title: "Annual Meeting"
+    url: "/annual meeting"
+  - title: "Workshops"
+    url: /workshops
+  - title: "Presentations"
+    url: /presentations
+  - title: 'Photos'
+    url: /photos
+  - title: 'Contact'
+    url: "https://forms.gle/FvNjHEDHmdgaX2Qt6"
+  - title: "Mailing Group"
+    url: https://groups.google.com/a/pagk.or.kr/g/list
+  - title: 'Links'
+    url: /links
+  - title: 'Posts'
+    url: /posts
+
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+pagk:
+  - title: 
+    children: 
+      - title: "About"
+        url: /pagk/about
+      - title: "Steering Committee"
+        url: /pagk/steering-committee
+      - title: "Advisory Committee"
+        url: /pagk/advisory-committee
+      - title: "Policy"
+        url: /pagk/policy
+      - title: "History"
+        url: /pagk/history
