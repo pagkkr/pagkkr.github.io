@@ -26,7 +26,7 @@ contact :
 meeting:
   - image_path: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
-    title: "PAGK meeting 2023"
+    title: "PAGK Annual Meeting 2023"
     excerpt: '대전 기초과학연구원과학문화센터<br>11월 15일 오전 9시 - 오후 5시 30분'
     url: "/posts/2023-09-07-annual-meeting"
     btn_label: "더보기"
