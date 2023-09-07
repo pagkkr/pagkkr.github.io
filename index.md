@@ -23,15 +23,23 @@ contact :
     url: "https://forms.gle/QFJqyEdAwB478iJa9"
     btn_label: "문의하기"
     btn_class: "btn--primary"
-feature_row:
-  - image_path: /assets/images/2023-annual-meeting.jpg
+meeting:
+  - image_path: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
     title: "PAGK meeting 2023"
     excerpt: '대전 기초과학연구원과학문화센터<br>11월 15일 오전 9시 - 오후 5시'
-    url: "/annual meeting"
-    btn_label: "Read More"
+    url: "/posts/2023-09-07-annual-meeting"
+    btn_label: "더보기"
     btn_class: "btn--primary"
-feature_row2:
+oral:
+  - image_path: 
+    alt: ""
+    title: "Oral Presentation 등록"
+    excerpt: '1차 등록 기한: 9월 24일 23시 59분'
+    url: "https://forms.gle/jjV5Kc3kVf5Qqzhh6"
+    btn_label: "등록하기"
+    btn_class: "btn--primary"
+photos:
   - image_path: /assets/posts/2020-11-27-photos/2020.jpg
     alt: "Photos"
     title: "Photos"
@@ -40,6 +48,8 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="meeting" type="center" %}
+{% include feature_row id="oral" type="center" %}
+{% include feature_row id="photos" type="left" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
