@@ -1,6 +1,7 @@
 # 관리방법
 ## 민감한 정보 저장 금지
-github pages에서 무료로 호스팅을 하려면 git repository가 public 상태이어야만 함.\ 인터넷에 공개되므로 민감한 정보는 저장하지 말 것. 
+github pages에서 무료로 호스팅을 하려면 git repository가 public 상태이어야만 함.\
+인터넷에 공개되므로 민감한 정보는 저장하지 말 것. 
 ## post 작성 준비
 1. [template 폴더](/template) 조회
 2. 폴더안의 md 파일 중 작성하고 싶은 종류의 md파일을 클릭.
