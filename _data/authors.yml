@@ -37,7 +37,7 @@ kimjk:
 kimjw:
   id: kimjw
   name: 김재우
-  bio: 에이치플러스 양지병원
+  bio: 에이치플러스<br>양지병원
   # avatar: "/assets/images/avatar/kimjw.jpg"
   member_group: advisor
 leehoward:
@@ -49,7 +49,7 @@ leehoward:
 leeje:
   id: leeje
   name: 이지은
-  bio: LG화학
+  bio: 
   # avatar: "/assets/images/avatar/leeje.jpg"
   member_group: advisor
 ohj:
@@ -61,19 +61,19 @@ ohj:
 shan:
   id: shan
   name: 한성필
-  bio: 가톨릭대
+  bio: 가톨릭대 의대
   # avatar: "/assets/images/avatar/shan.jpg"
   member_group: advisor
 suein:
   id: suein
   name: 최수인
-  bio: 가톨릭대
+  bio: 가톨릭대 의대
   # avatar: "/assets/images/avatar/suein.png"
   member_group: member
 yimds:
   id: yimds
   name: 임동석
-  bio: 가톨릭대
+  bio: 가톨릭대 의대
   # avatar: "/assets/images/avatar/yimds.jpg"
   member_group: advisor
 yoon:
@@ -98,12 +98,12 @@ mgkim:
 soykim:
   id: soykim
   name: 김소영
-  bio: 국가수리과학연구소
+  bio: 국가수리<br>과학연구소
   member_group: member
 thkim:
   id: thkim 
   name: 김태환
-  bio: 대구가톨릭대 약대
+  bio: 대구가톨릭대<br>약대
   member_group: member
 leejh:
   id: leejh

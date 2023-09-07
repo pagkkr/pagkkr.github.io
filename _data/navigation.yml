@@ -10,12 +10,14 @@ main:
     url: /presentations
   - title: 'Photos'
     url: /photos
-  - title: 'Contact'
-    url: "https://forms.gle/FvNjHEDHmdgaX2Qt6"
+  - title: '문의'
+    url: https://forms.gle/QFJqyEdAwB478iJa9
   - title: "Mailing Group"
     url: https://groups.google.com/a/pagk.or.kr/g/list
   - title: 'Links'
     url: /links
+  - title: '가입'
+    url: "https://forms.gle/FvNjHEDHmdgaX2Qt6"
   - title: 'Posts'
     url: /posts
 
