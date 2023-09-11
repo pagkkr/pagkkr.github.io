@@ -28,7 +28,7 @@ meeting:
     alt: "annual meeting"
     title: "PAGK Annual Meeting 2023"
     excerpt: 
-    url: "/posts/2023-09-07-annual-meeting"
+    url: "/posts/2023-09-11-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
 oral:
