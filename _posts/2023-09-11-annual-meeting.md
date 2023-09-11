@@ -1,5 +1,5 @@
 ---
-date: 2023-09-07
+date: 2023-09-11
 title: "PAGK Annual Meeting 2023"
 categories: ["Annual Meeting"]
 tags: [Workshop]
@@ -11,7 +11,6 @@ header:
 # 개요
 
 장소: 대전 기초과학연구원과학문화센터 \
-일시: 12월중
 
 # Oral Presentation 등록
 1차 등록 기한: 9월 24일 23시 59분 \
