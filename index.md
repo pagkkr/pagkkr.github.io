@@ -36,7 +36,7 @@ oral:
   - image_path: 
     alt: ""
     title: "Oral Presentation 등록"
-    excerpt: '1차 등록 기한: 9월 24일 23시 59분'
+    excerpt: '등록 기한: 10월 27일 23시 59분'
     url: "https://forms.gle/jjV5Kc3kVf5Qqzhh6"
     btn_label: "등록하기"
     btn_class: "btn--primary"
