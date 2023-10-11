@@ -33,8 +33,8 @@ meeting:
     btn_label: "더보기"
     btn_class: "btn--primary"
 registration2023:
-  - title: ""
-    excerpt: "PAGK 2023 등록하기"
+  - title: "PAGK 2023 등록하기"
+    excerpt: ""
     url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
     btn_label: "등록하기"
     btn_class: "btn--primary"
