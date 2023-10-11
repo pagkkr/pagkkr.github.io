@@ -32,6 +32,12 @@ meeting:
     url: "/posts/2023-09-11-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
+registration2023:
+  - title: ""
+    excerpt: "PAGK 2023 등록하기"
+    url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
+    btn_label: "등록하기"
+    btn_class: "btn--primary"
 oral:
   - image_path: 
     alt: ""
@@ -50,6 +56,7 @@ photos:
     btn_class: "btn--primary"
 ---
 {% include feature_row id="meeting" type="center" %}
+{% include feature_row id="registration2023" type="center" %}
 {% include feature_row id="oral" type="center" %}
 {% include feature_row id="photos" type="left" %}
 {% include feature_row id="registration" type="center" %}
