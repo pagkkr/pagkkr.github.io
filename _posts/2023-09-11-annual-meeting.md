@@ -13,6 +13,5 @@ header:
 장소: 대전 기초과학연구원과학문화센터\
 시간: 12월 11일 (월) 오전 9시 \- 오후 5시 30분
 
-# Oral Presentation 등록
-등록 기한: 10월 27일 23시 59분 \
-[등록하기](https://forms.gle/jjV5Kc3kVf5Qqzhh6){: .btn .btn--primary}
+# 등록
+[등록하기](https://docs.google.com/forms/d/e/1FAIpQLSdT2TNjIW7iG-ofhVx7MVUJNoVnb4Lf0Xpy59DV5hrRCkRYoA/viewform){: .btn .btn--primary}
