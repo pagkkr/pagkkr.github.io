@@ -17,4 +17,5 @@ header:
 [확인하기](/assets/posts/2023-09-11-annual-meeting/2023-PAGK-Annual meeting-Poster.pdf){: .btn .btn--primary}
 
 # 등록
+1차 등록 기한 11월 26일(일) 23:59
 [등록하기](https://docs.google.com/forms/d/e/1FAIpQLSdT2TNjIW7iG-ofhVx7MVUJNoVnb4Lf0Xpy59DV5hrRCkRYoA/viewform){: .btn .btn--primary}
