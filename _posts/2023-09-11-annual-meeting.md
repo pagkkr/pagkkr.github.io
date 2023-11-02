@@ -19,5 +19,5 @@ header:
 # 등록
 [등록하기](https://docs.google.com/forms/d/e/1FAIpQLSdT2TNjIW7iG-ofhVx7MVUJNoVnb4Lf0Xpy59DV5hrRCkRYoA/viewform){: .btn .btn--primary}
 
-
-
+# 초록 제출
+[초록제출](https://forms.gle/QXcwqQGU7T98bZjL9){: .btn .btn--primary}
