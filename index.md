@@ -33,10 +33,16 @@ meeting:
     btn_label: "더보기"
     btn_class: "btn--primary"
 registration2023:
-  - title: "PAGK 2023 등록하기"
+  - title: "PAGK 2023 등록"
     excerpt: ""
     url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
     btn_label: "등록하기"
+    btn_class: "btn--primary"
+abstract2023:
+  - title: "PAGK 2023 초록 제출"
+    excerpt: ""
+    url: "https://forms.gle/mhwmemjYeiSYzL4t5"
+    btn_label: "초록제출"
     btn_class: "btn--primary"
 photos:
   - image_path: /assets/posts/2020-11-27-photos/2020.jpg
@@ -49,6 +55,7 @@ photos:
 ---
 {% include feature_row id="meeting" type="center" %}
 {% include feature_row id="registration2023" type="center" %}
+{% include feature_row id="abstract2023" type="center" %}
 {% include feature_row id="photos" type="left" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
