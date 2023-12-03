@@ -34,7 +34,7 @@ meeting:
     btn_class: "btn--primary"
 registration2023:
   - title: "PAGK Annual Meeting 2023 등록"
-    excerpt: "2차 등록 기한 12월 6일(수) 23:59"
+    excerpt: "3차 등록 기한 12월 6일(수) 23:59"
     url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
     btn_label: "등록하기"
     btn_class: "btn--primary"
