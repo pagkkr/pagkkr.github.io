@@ -23,7 +23,7 @@ contact :
     url: "https://forms.gle/QFJqyEdAwB478iJa9"
     btn_label: "문의하기"
     btn_class: "btn--primary"
-meeting:
+top:
   - image_path: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
     title: "PAGK Annual Meeting 2023"
@@ -32,14 +32,14 @@ meeting:
     url: "/posts/2023-11-11-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
-registration2023:
+annual_meeting_registration:
   - title: "PAGK Annual Meeting 2023 등록"
     excerpt: "3차 등록 기한 12월 6일(수) 23:59"
     url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
     btn_label: "등록하기"
     btn_class: "btn--primary"
 photos:
-  - image_path: /assets/posts/2020-11-27-photos/2020.jpg
+  - image_path: /assets/posts/2023-12-11-photos/2023-12-11-01.jpg
     alt: "Photos"
     title: "Photos"
     excerpt: ''
@@ -47,8 +47,8 @@ photos:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="meeting" type="center" %}
-{% include feature_row id="registration2023" type="center" %}
+<!-- {% include feature_row id="top" type="center" %} -->
+<!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 {% include feature_row id="photos" type="left" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
