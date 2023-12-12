@@ -39,7 +39,7 @@ annual_meeting_registration:
     btn_label: "등록하기"
     btn_class: "btn--primary"
 photos:
-  - image_path: /assets/posts/2023-12-11-photos/2023-12-11-01.jpg
+  - image_path: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
     alt: "Photos"
     title: "Photos"
     excerpt: ''
