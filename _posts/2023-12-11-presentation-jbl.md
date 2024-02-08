@@ -1,8 +1,5 @@
 ---
 title: "The role of exposure response analyses in determination of RDE in a FIH Ph1/1b study"
-# header:
-#  teaser: "/assets/presentations/2019-S1-1.png"
-#  image: "/assets/presentations/2019-S1-1.png"
 categories: ["presentations"]
 date: "2023-12-11"
 authors : ["이종봉"]
