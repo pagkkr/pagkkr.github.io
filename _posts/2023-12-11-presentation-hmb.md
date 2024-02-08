@@ -9,7 +9,7 @@ authors : ["백현문"]
 tags: ["BMS"]
 
 ---
-{% assign date_format = "%Y-%m-%d%}
+{% assign date_format = "%Y-%m-%d%"}
 <p class="page__date">
   <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Date:</strong> 
   <time class="dt-published" datetime="{{ page.date}}">{{ page.date | date: date_format }}</time>
@@ -31,4 +31,4 @@ PAGK Annual Meeting 2023
   유성구
   대전광역시
 
-[Document](/assets/presentations/2023-PAGK-HMB.pdf){: .btn .btn--primary}--->
+[Document](/assets/presentations/2023-PAGK-HMB.pdf){: .btn .btn--primary}
