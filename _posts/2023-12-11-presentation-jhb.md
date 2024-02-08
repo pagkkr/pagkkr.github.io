@@ -5,7 +5,7 @@ date: "2023-12-11"
 authors : ["변종혁"]
 tags: ["부산대"]
 ---
-{% assign date_format = "%Y-%m-%d%"}
+{% assign date_format = "%Y-%m-%d%" %}
 <p class="page__date">
   <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Date:</strong> 
   <time class="dt-published" datetime="{{ page.date}}">{{ page.date | date: date_format }}</time>
