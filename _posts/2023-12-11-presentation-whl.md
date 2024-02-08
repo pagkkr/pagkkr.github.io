@@ -5,7 +5,7 @@ date: "2023-12-11"
 authors : ["이완호"]
 tags: ["국가수리과학연구소"]
 ---
-{% assign date_format = "%Y-%m-%d%"}
+{% assign date_format = "%Y-%m-%d%" %}
 <p class="page__date">
   <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Date:</strong> 
   <time class="dt-published" datetime="{{ page.date}}">{{ page.date | date: date_format }}</time>
