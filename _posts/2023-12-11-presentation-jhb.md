@@ -5,7 +5,6 @@ title: "PKPD Model Application in Homogeneous/Heterogeneous Conditions"
 #  image: "/assets/presentations/2019-S1-1.png"
 categories: ["presentations"]
 date: "2023-12-11"
-# date_end: "2023-12-11"
 authors : ["변종혁"]
 tags: ["부산대"]
 
