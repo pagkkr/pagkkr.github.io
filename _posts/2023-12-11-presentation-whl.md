@@ -1,8 +1,5 @@
 ---
 title: "Introduction to Mathematical Modeling of the Circulatory System"
-# header:
-#  teaser: "/assets/presentations/2019-S1-1.png"
-#  image: "/assets/presentations/2019-S1-1.png"
 categories: ["presentations"]
 date: "2023-12-11"
 authors : ["이완호"]
