@@ -1,5 +1,5 @@
 ---
-title: "The role of exposure response analyses in determination of RDE in a FIH Ph1/1b study"
+title: "Introduction to Mathematical Modeling of the Circulatory System"
 # header:
 #  teaser: "/assets/presentations/2019-S1-1.png"
 #  image: "/assets/presentations/2019-S1-1.png"
@@ -8,7 +8,7 @@ date: "2023-12-11"
 authors : ["이완호"]
 tags: ["국가수리과학연구소"]
 ---
-{% assign date_format = "%Y-%m-%d%}
+{% assign date_format = "%Y-%m-%d%"}
 <p class="page__date">
   <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Date:</strong> 
   <time class="dt-published" datetime="{{ page.date}}">{{ page.date | date: date_format }}</time>
