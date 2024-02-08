@@ -10,9 +10,9 @@ authors : ["변종혁"]
 tags: ["부산대"]
 
 ---
-{% assign date_format = "%Y-%m-%d %H:%M" %}
+{% assign date_format = "%Y-%m-%d%}
 <p class="page__date">
-  <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>start:</strong> 
+  <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Date:</strong> 
   <time class="dt-published" datetime="{{ page.date}}">{{ page.date | date: date_format }}</time>
 </p>
 
