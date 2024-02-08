@@ -1,13 +1,9 @@
 ---
 title: "Model Informed Drug Development Approach to Support the Approval of Camzyos"
-# header:
-#  teaser: "/assets/presentations/2019-S1-1.png"
-#  image: "/assets/presentations/2019-S1-1.png"
 categories: ["presentations"]
 date: "2023-12-11"
 authors : ["백현문"]
 tags: ["BMS"]
-
 ---
 {% assign date_format = "%Y-%m-%d%"}
 <p class="page__date">
