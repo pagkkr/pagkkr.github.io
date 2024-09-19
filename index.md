@@ -29,7 +29,7 @@ top:
     title: "PAGK Annual Meeting 2024"
     excerpt: "장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀<br>
 시간: 2024년 12월 18일(수) 오후"
-    url: "/posts/2023-11-11-annual-meeting"
+    url: "/posts/2024-09-19-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
 annual_meeting_registration:
