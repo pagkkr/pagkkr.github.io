@@ -24,11 +24,11 @@ contact :
     btn_label: "문의하기"
     btn_class: "btn--primary"
 top:
-  - image_path: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
+  - image_path_temp: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
-    title: "PAGK Annual Meeting 2023"
-    excerpt: "장소: 대전 기초과학연구원과학문화센터<br>
-시간: 12월 11일 (월) 오전 9시 - 오후 5시 30분"
+    title: "PAGK Annual Meeting 2024"
+    excerpt: "장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀<br>
+시간: 2024년 12월 18일(수) 오후"
     url: "/posts/2023-11-11-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
@@ -47,7 +47,8 @@ photos:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-<!-- {% include feature_row id="top" type="center" %} -->
+<!-- 필요하면 주석처리 해제 -->
+{% include feature_row id="top" type="center" %}
 <!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 {% include feature_row id="photos" type="center" %}
 {% include feature_row id="registration" type="center" %}
