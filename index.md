@@ -33,10 +33,10 @@ top:
     btn_label: "더보기"
     btn_class: "btn--primary"
 annual_meeting_registration:
-  - title: "PAGK Annual Meeting 2023 등록"
-    excerpt: "3차 등록 기한 12월 6일(수) 23:59"
-    url: "https://forms.gle/WZF5Rut4YvXHvAFr6"
-    btn_label: "등록하기"
+  - title: "PAGK Annual Meeting 2024 등록"
+    excerpt: "추후 공지"
+    url: "https://forms.gle/"
+    btn_label: "추후 공지"
     btn_class: "btn--primary"
 photos:
   - image_path: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
@@ -49,7 +49,7 @@ photos:
 ---
 <!-- 필요하면 주석처리 해제 -->
 {% include feature_row id="top" type="center" %}
-<!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
+{% include feature_row id="annual_meeting_registration" type="center" %}
 {% include feature_row id="photos" type="center" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
