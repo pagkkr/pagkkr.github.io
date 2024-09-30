@@ -55,8 +55,8 @@ photos:
 ---
 <!-- 필요하면 주석처리 해제 -->
 {% include feature_row id="top" type="center" %}
-{% include feature_row id="annual_meeting_registration" type="left" %}
-{% include feature_row id="annual_meeting_preworkshop_registration" type="right" %}
+{% include feature_row id="annual_meeting_registration" type="center" %}
+{% include feature_row id="annual_meeting_preworkshop_registration" type="center" %}
 {% include feature_row id="photos" type="center" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
