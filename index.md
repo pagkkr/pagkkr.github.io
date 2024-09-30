@@ -34,6 +34,12 @@ top:
     btn_class: "btn--primary"
 annual_meeting_registration:
   - title: "PAGK Annual Meeting 2024 등록"
+    excerpt: "1차 마감: 2024년 11월 15일 23:59"
+    url: "https://forms.gle/PwuUYZC4SQ4j4GKo7"
+    btn_label: "등록"
+    btn_class: "btn--primary"
+annual_meeting_preworkshop_registration:
+  - title: "PAGK Annual Meeting 2024 사전 워크샵 등록"
     excerpt: "추후 공지"
     url: "https://forms.gle/"
     btn_label: "추후 공지"
