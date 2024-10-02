@@ -18,5 +18,5 @@ header:
 [Check](/assets/annual-meeting/2024-PAGK-ENG.pdf){: .btn .btn--primary}
 
 # 등록
-1차 등록 기한 11월 22일(금) 23:59 \
+1차 등록 기한 11월 15일(금) 23:59 \
 [등록하기](https://forms.gle/PwuUYZC4SQ4j4GKo7){: .btn .btn--primary}
