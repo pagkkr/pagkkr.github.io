@@ -40,9 +40,9 @@ annual_meeting_registration:
     btn_class: "btn--primary"
 annual_meeting_preworkshop_registration:
   - title: "PAGK Annual Meeting 2024 사전 워크샵 등록"
-    excerpt: "추후 공지"
-    url: "https://forms.gle/"
-    btn_label: "추후 공지"
+    excerpt: " "
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSeGhLhDevtx2GaUycCfY1496sDd3OS17PP0ANmWQvQWTW1Uiw/viewform"
+    btn_label: "등록"
     btn_class: "btn--primary"
 photos:
   - image_path: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
