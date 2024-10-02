@@ -17,6 +17,9 @@ header:
 [확인하기](/assets/annual-meeting/2024-PAGK-KOR.pdf){: .btn .btn--primary}\
 [Check](/assets/annual-meeting/2024-PAGK-ENG.pdf){: .btn .btn--primary}
 
+# 사전 워크샵 등록
+[등록하기](https://docs.google.com/forms/d/e/1FAIpQLSeGhLhDevtx2GaUycCfY1496sDd3OS17PP0ANmWQvQWTW1Uiw/viewform){: .btn .btn--primary}
+
 # 등록
 1차 등록 기한 11월 15일(금) 23:59 \
 [등록하기](https://forms.gle/PwuUYZC4SQ4j4GKo7){: .btn .btn--primary}
