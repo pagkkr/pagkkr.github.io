@@ -20,7 +20,7 @@ registration :
 contact :
   - title: "Contact"
     excerpt: 
-    url: "https://forms.gle/QFJqyEdAwB478iJa9"
+    url: "mailto://pagk2006@gmail.com"
     btn_label: "문의하기"
     btn_class: "btn--primary"
 top:
