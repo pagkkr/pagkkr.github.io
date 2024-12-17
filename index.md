@@ -19,7 +19,7 @@ registration :
     btn_class: "btn--primary"
 contact :
   - title: "Contact"
-    excerpt: pagk@gmail.com
+    excerpt: pagk2006@gmail.com
 top:
   - image_path_temp: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
