@@ -19,10 +19,7 @@ registration :
     btn_class: "btn--primary"
 contact :
   - title: "Contact"
-    excerpt: 
-    url: "mailto://pagk2006@gmail.com"
-    btn_label: "문의하기"
-    btn_class: "btn--primary"
+    excerpt: pagk@gmail.com
 top:
   - image_path_temp: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
