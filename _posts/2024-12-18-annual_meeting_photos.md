@@ -4,8 +4,8 @@ date :  "2024-12-18"
 categories : ['photos']
 tags :  ["PBPK", "systems pharmacology", "Annual Meeting", "Workshop"]
 header:
-  teaser: /assets/posts/2024-12-18-photos/pagk_2024_photo_2.jpg
-  image: /assets/posts/2024-12-18-photos/pagk_2024_photo_2.jpg
+  teaser: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
+  image: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
 ---
 
 
@@ -16,13 +16,13 @@ header:
 
 <!--[Google Photos](https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8){: .btn .btn--primary}-->
 
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_1.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_2.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_3.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_4.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_5.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_6.jpg)
-![](/assets/posts/2024-12-18-photos/pagk_2024_photo_7.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_1.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_3.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_4.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_5.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_6.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_7.jpg)
 
 
 
