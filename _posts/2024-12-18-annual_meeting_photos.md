@@ -18,11 +18,16 @@ header:
 
 ![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_1.jpg)
 ![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_3.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_4.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_5.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_6.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_7.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S1-1.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S1-2.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S2-1.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S2-2.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S2-3.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S2-3.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S2-4.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S3-1.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S3-2.jpg)
+![](/assets/posts/2024-12-18-annual_meeting_photos/S3-3.jpg)
 
 
 
