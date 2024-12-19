@@ -2,7 +2,7 @@
 title :  "2024 PAGK Annual Meeting"
 date :  "2024-12-18"
 categories : ['photos']
-tags :  ["PBPK", "systems pharmacology", "Annual Meeting", "Workshop"]
+tags :  ["Annual Meeting", "Workshop"]
 header:
   teaser: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
   image: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
