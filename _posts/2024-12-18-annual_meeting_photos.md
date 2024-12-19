@@ -9,7 +9,7 @@ header:
 ---
 
 
-2019 PAGK Annual Meeting 
+2024 PAGK Annual Meeting 
 
 - 일시: 2024년 12월 18일
 - 장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀
