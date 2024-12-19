@@ -42,18 +42,19 @@ annual_meeting_preworkshop_registration:
     btn_label: "등록"
     btn_class: "btn--primary"
 photos:
-  - image_path: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
-    alt: "Photos"
+  - alt: "Photos"
     title: "Photos"
     excerpt: ''
     url: "/photos"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    image_path_사진_필요하면_image_path만_남기면_작동함: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
 ---
+<!-- 이게 주석 -->
 <!-- 필요하면 주석처리 해제 -->
 {% include feature_row id="top" type="center" %}
-{% include feature_row id="annual_meeting_registration" type="center" %}
-{% include feature_row id="annual_meeting_preworkshop_registration" type="center" %}
+<!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
+<!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
 {% include feature_row id="photos" type="center" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
