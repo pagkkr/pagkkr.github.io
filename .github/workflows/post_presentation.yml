@@ -1,0 +1,47 @@
+name: Generate File from Template
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Enter the name to include in the file"
+        required: true
+        default: "John Doe"
+      date:
+        description: "Enter the date (YYYY-MM-DD) or leave empty for today's date"
+        required: false
+
+jobs:
+  generate-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup date input
+        id: setup_date
+        run: |
+          if [ -z "${{ github.event.inputs.date }}" ]; then
+            echo "date=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+          else
+            echo "date=${{ github.event.inputs.date }}" >> $GITHUB_ENV
+          fi
+
+      - name: Create file from template
+        run: |
+          # Replace placeholders in the template file with inputs
+          sed -e "s/{{name}}/${{ github.event.inputs.name }}/g" \
+              -e "s/{{date}}/$DATE/g" \
+              template.txt > generated_file.txt
+
+      - name: Show generated file
+        run: cat generated_file.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated_file.txt
+          git commit -m "Add generated file from template"
+          git push
