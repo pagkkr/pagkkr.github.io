@@ -10,8 +10,8 @@ main:
     url: /presentations
   - title: 'Photos'
     url: /photos
-  - title: '문의'
-    url: "mailto://pagk2006@gmail.com"
+  - title: 'Contact'
+    url: /contact
   - title: "Mailing Group"
     url: https://groups.google.com/a/pagk.or.kr/g/list
   - title: 'Links'
