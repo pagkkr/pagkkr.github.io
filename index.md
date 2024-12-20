@@ -24,8 +24,7 @@ top:
   - image_path_temp: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
     alt: "annual meeting"
     title: "PAGK Annual Meeting 2024"
-    excerpt: "장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀<br>
-시간: 2024년 12월 18일(수) 오후"
+    excerpt: "여러분의 성원에 힘입어. 행사가 무사히 마무리 되었습니다. <br> 발표자로는 취합하는 데로 <a href="https://pagk.kr/presentations">Presentation</a>에 게시 될 예정입니다. <br> 감사합니다."
     url: "/posts/2024-09-19-annual-meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
