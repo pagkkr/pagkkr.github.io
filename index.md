@@ -51,7 +51,7 @@ photos:
 ---
 <!-- 이게 주석 -->
 <!-- 필요하면 주석처리 해제 -->
-<!-- {% include feature_row id="top" type="center" %} -->
+{% include feature_row id="top" type="center" %}
 <!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 <!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
 {% include feature_row id="photos" type="center" %}
