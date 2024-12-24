@@ -25,7 +25,7 @@ top:
     alt: "annual meeting"
     title: "PAGK Annual Meeting 2024"
     excerpt: '발표자료는 취합 중입니다. 현재까지 취합된 발표자료는 <br> <a href="https://pagk.kr/presentations">Presentations</a>에서 열람하실 수 있습니다. <br>감사합니다.'
-    url: "/posts/2024-09-19-annual-meeting"
+    url: "/presentations"
     btn_label: "더보기"
     btn_class: "btn--primary"
 annual_meeting_registration:
