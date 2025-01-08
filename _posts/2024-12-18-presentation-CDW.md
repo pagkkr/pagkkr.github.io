@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Modeling ofBacteriophage Therapy"
+title: "Mathematical Modeling of Bacteriophage Therapy"
 categories: ["presentations"]
 authors : ["Dongwoo Chae (채동우)"]
 tags: []
