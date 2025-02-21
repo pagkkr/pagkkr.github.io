@@ -32,7 +32,7 @@ presentation post는 [presentation 파일 업로드 방법](#presentation-파일
 3. commit 버튼 클릭 ![](/docs/commit.png)
 ## 파일 다운로드 버튼 첨부 방법
 ```
-[Download](/assets/posts/md_file_name/file_name.ext){: .btn .btn--primary}
+[Download](/assets/posts/md_file_name/file_name.pdf){: .btn .btn--primary}
 ```
 ## 이미지 첨부 방법
 ```
