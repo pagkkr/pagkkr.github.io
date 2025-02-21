@@ -50,7 +50,7 @@ photos:
     image_path_사진_필요하면_image_path만_남기면_작동함: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
 ---
 <!-- 이게 주석 -->
-<!-- 필요하면 주석처리 해제 -->
+<!-- 주석 해제 하려면 좌우에 있는 특수문자 제거 -->
 {% include feature_row id="top" type="center" %}
 <!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 <!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
