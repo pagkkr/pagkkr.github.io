@@ -15,7 +15,7 @@ chae:
   name: 채동우
   bio: 연세대 의대
   # avatar: "/assets/images/avatar/chae.jpg"
-  member_group: advisor
+  member_group: president
 cho:
   id: cho
   name: 조혜영
