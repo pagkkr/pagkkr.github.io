@@ -12,10 +12,8 @@ baek:
   member_group: advisor
 chae:
   id: chae
-  name: |
-        PAGK회장 <br>
-        채동우
-  bio: 연세대 의대
+  name: 채동우
+  bio: 연세대 의대, PAGK 회장
   # avatar: "/assets/images/avatar/chae.jpg"
   member_group: president
 cho:
