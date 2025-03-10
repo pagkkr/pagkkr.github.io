@@ -83,7 +83,7 @@ yoon:
         PAGK회장 <br>
         충남대 약대
   # avatar: "/assets/images/avatar/yoon.jpg"
-  member_group: president
+  member_group: advisor
 yyoon:
   id: yyoon
   name: 윤영란
