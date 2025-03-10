@@ -12,7 +12,9 @@ baek:
   member_group: advisor
 chae:
   id: chae
-  name: 채동우
+  name: |
+        PAGK회장 <br>
+        채동우
   bio: 연세대 의대
   # avatar: "/assets/images/avatar/chae.jpg"
   member_group: president
@@ -79,9 +81,7 @@ yimds:
 yoon:
   id: yoon
   name: 윤휘열
-  bio: |
-        PAGK회장 <br>
-        충남대 약대
+  bio: 충남대 약대
   # avatar: "/assets/images/avatar/yoon.jpg"
   member_group: advisor
 yyoon:
