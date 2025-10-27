@@ -92,7 +92,7 @@ mgkim:
   id: mgkim
   name: 김민걸
   bio: 전북대 의대
-  member_group: member
+  member_group: advisor
 soykim:
   id: soykim
   name: 김소영
