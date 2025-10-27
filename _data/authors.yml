@@ -123,3 +123,28 @@ mjjang:
   name: 장민정
   bio: 연세대 약대
   member_group: member
+jjguk:
+  id: jjguk
+  name: 국진주
+  bio: 베링거잉겔하임
+  member_group: member
+cokim:
+  id: cokim
+  name: 김춘옥
+  bio: 연세의료원 임상약리
+  member_group: member
+yjkim:
+  id: yjkim
+  name: 김양진
+  bio: 건국대학교 수리과학과
+  member_group: member
+syyoon:
+  id: syyoon
+  name: 윤석용
+  bio: 연세의료원 임상약리
+  member_group: member
+bhjin:
+  id: bhjin
+  name: 진병학 (총무간사)
+  bio: 연세의료원 임상약리
+  member_group: member
