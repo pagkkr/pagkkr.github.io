@@ -63,13 +63,13 @@ shan:
   name: 한성필
   bio: 가톨릭대 의대
   # avatar: "/assets/images/avatar/shan.jpg"
-  member_group: advisor
+  member_group: member
 suein:
   id: suein
   name: 최수인
   bio: 가톨릭대 의대
   # avatar: "/assets/images/avatar/suein.png"
-  member_group: member
+  member_group: advisor
 yimds:
   id: yimds
   name: 임동석
@@ -97,12 +97,12 @@ soykim:
   id: soykim
   name: 김소영
   bio: 국가수리<br>과학연구소
-  member_group: member
+  member_group: advisor
 thkim:
   id: thkim 
   name: 김태환
   bio: 대구가톨릭대<br>약대
-  member_group: member
+  member_group: advisor
 leejh:
   id: leejh
   name: 이승환
@@ -117,4 +117,9 @@ jwchae:
   id: jwchae
   name: 채정우
   bio: 충남대 약대
+  member_group: member
+mjjang:
+  id: mjjang
+  name: 장민정
+  bio: 연세대 약대
   member_group: member
