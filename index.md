@@ -51,7 +51,7 @@ photos:
 ---
 <!-- 이게 주석 -->
 <!-- 주석 해제 하려면 좌우에 있는 특수문자 제거 -->
-{% include feature_row id="top" type="center" %}
+<!-- {% include feature_row id="top" type="center" %} -->
 <!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 <!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
 {% include feature_row id="photos" type="center" %}
