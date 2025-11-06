@@ -1,6 +1,6 @@
 ---
-date: 2024-09-19
-title: "PAGK Annual Meeting 2024"
+date: 2025-11-06
+title: "PAGK Annual Meeting 2025"
 categories: ["Annual Meeting"]
 tags: [Workshop]
 header:
