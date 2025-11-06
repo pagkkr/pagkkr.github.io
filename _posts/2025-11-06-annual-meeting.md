@@ -10,15 +10,14 @@ header:
 
 # 개요
 
-장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀\
-시간: 2024년 12월 18일(수) 오후
+장소: 세브란스병원 에비슨 의생명연구센터(ABMRC) 1층 유일한홀 \
+시간: 2025년 12월 03일(수) 오후
 
 # 안내 포스터
-[확인하기](/assets/annual-meeting/2024-PAGK-KOR.pdf){: .btn .btn--primary}\
-[Check](/assets/annual-meeting/2024-PAGK-ENG.pdf){: .btn .btn--primary}
+[확인하기/Check](/assets/annual-meeting/2025-PAGK-KOR.pdf){: .btn .btn--primary}\
 
 # 등록
-3차 등록 기한 12월 15일 23:59 \
+등록 기한 11월 28일 23:59 \
 [등록하기](https://forms.gle/PwuUYZC4SQ4j4GKo7){: .btn .btn--primary}
 
 # 사전 워크샵 등록
