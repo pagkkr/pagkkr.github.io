@@ -14,7 +14,7 @@ header:
 시간: 2025년 12월 03일(수) 오후
 
 # 안내 포스터
-[확인하기/Check](/assets/annual-meeting/2025-PAGK-KOR.pdf){: .btn .btn--primary}\
+[확인하기/Check](/assets/annual-meeting/2025-PAGK-KOR.pdf){: .btn .btn--primary}
 
 # 등록
 등록 기한 11월 28일 23:59 \
