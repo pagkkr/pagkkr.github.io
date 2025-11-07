@@ -18,5 +18,5 @@ header:
 
 # 등록
 등록 기한 11월 28일 23:59 \
-[등록하기](https://forms.gle/PwuUYZC4SQ4j4GKo7){: .btn .btn--primary}
+[등록하기](https://forms.gle/J7bf1bRycxRuCbGX7){: .btn .btn--primary}
 
