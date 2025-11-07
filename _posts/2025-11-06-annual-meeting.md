@@ -11,7 +11,7 @@ header:
 # 개요
 
 장소: 세브란스병원 에비슨 의생명연구센터(ABMRC) 1층 유일한홀 \
-시간: 2025년 12월 03일(수) 오후
+시간: 2025년 12월 03일(수)
 
 # 안내 포스터
 [확인하기/Check](/assets/annual-meeting/2025-PAGK-KOR.pdf){: .btn .btn--primary}
@@ -20,5 +20,3 @@ header:
 등록 기한 11월 28일 23:59 \
 [등록하기](https://forms.gle/PwuUYZC4SQ4j4GKo7){: .btn .btn--primary}
 
-# 사전 워크샵 등록
-[등록하기](https://docs.google.com/forms/d/e/1FAIpQLSeGhLhDevtx2GaUycCfY1496sDd3OS17PP0ANmWQvQWTW1Uiw/viewform){: .btn .btn--primary}
