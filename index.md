@@ -21,11 +21,10 @@ contact :
   - title: "Contact"
     excerpt: pagk2006@gmail.com
 top:
-  - image_path_temp: "/assets/annual-meeting/pagk-annual-meeting-2023.png"
-    alt: "annual meeting"
-    title: "PAGK Annual Meeting 2024"
-    excerpt: '취합된 발표자료는 <br> <a href="https://pagk.kr/presentations">Presentations</a>에서 열람하실 수 있습니다. <br>감사합니다.'
-    url: "/presentations"
+  - alt: "annual meeting"
+    title: "PAGK Annual Meeting"
+    excerpt: ""
+    url: "/annual%20meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
 annual_meeting_registration:
@@ -51,7 +50,7 @@ photos:
 ---
 <!-- 이게 주석 -->
 <!-- 주석 해제 하려면 좌우에 있는 특수문자 제거 -->
-<!-- {% include feature_row id="top" type="center" %} -->
+{% include feature_row id="top" type="center" %}
 <!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
 <!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
 {% include feature_row id="photos" type="center" %}
