@@ -27,32 +27,9 @@ top:
     url: "/annual%20meeting"
     btn_label: "더보기"
     btn_class: "btn--primary"
-annual_meeting_registration:
-  - title: "PAGK Annual Meeting 2024 등록"
-    excerpt: "3차 마감: 2024년 12월 15일 23:59"
-    url: "https://forms.gle/PwuUYZC4SQ4j4GKo7"
-    btn_label: "등록"
-    btn_class: "btn--primary"
-annual_meeting_preworkshop_registration:
-  - title: "PAGK Annual Meeting 2024 사전 워크샵 등록"
-    excerpt: " "
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSeGhLhDevtx2GaUycCfY1496sDd3OS17PP0ANmWQvQWTW1Uiw/viewform"
-    btn_label: "등록"
-    btn_class: "btn--primary"
-photos:
-  - alt: "Photos"
-    title: "Photos"
-    excerpt: ''
-    url: "/photos"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    image_path_사진_필요하면_image_path만_남기면_작동함: /assets/posts/2023-12-11-annual_meeting_photos/2023-12-11-01.jpg
 ---
 <!-- 이게 주석 -->
 <!-- 주석 해제 하려면 좌우에 있는 특수문자 제거 -->
 {% include feature_row id="top" type="center" %}
-<!-- {% include feature_row id="annual_meeting_registration" type="center" %} -->
-<!-- {% include feature_row id="annual_meeting_preworkshop_registration" type="center" %} -->
-{% include feature_row id="photos" type="center" %}
 {% include feature_row id="registration" type="center" %}
 {% include feature_row id="contact" type="center" %}
