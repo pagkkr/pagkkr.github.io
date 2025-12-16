@@ -5,7 +5,7 @@ categories : ['photos']
 tags :  ["Annual Meeting", "Workshop"]
 header:
   teaser: /assets/posts/2025_photos/PAGK2025.jpg
-  image: /assets/posts/2025_photos/PAGK2025-1.jpg
+  image: /assets/posts/2025_photos/PAGK2025.jpg
 ---
 
 
