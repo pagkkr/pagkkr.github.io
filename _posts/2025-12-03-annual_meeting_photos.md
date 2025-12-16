@@ -4,8 +4,8 @@ date :  "2025-12-03"
 categories : ['photos']
 tags :  ["Annual Meeting", "Workshop"]
 header:
-  teaser: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
-  image: /assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg
+  teaser: /assets/posts/2025_photos/PAGK2025.jpg
+  image: /assets/posts/2025_photos/PAGK2025-1.jpg
 ---
 
 
