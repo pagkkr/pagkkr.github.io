@@ -16,18 +16,18 @@ header:
 
 <!--[Google Photos](https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8){: .btn .btn--primary}-->
 
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_1.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/pagk_2024_photo_2.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S1-1.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S1-2.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S2-1.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S2-2.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S2-3.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S2-3.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S2-4.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S3-1.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S3-2.jpg)
-![](/assets/posts/2024-12-18-annual_meeting_photos/S3-3.jpg)
-
-
+![](/assets/posts/2025_photos/PAGK2025.jpg)
+![](/assets/posts/2025_photos/PAGK2025-1.jpg)
+![](/assets/posts/2025_photos/S1-1-1.jpg)
+![](/assets/posts/2025_photos/S1-1-2.jpg)
+![](/assets/posts/2025_photos/S1-2-1.jpg)
+![](/assets/posts/2025_photos/S1-2-2.jpg)
+![](/assets/posts/2025_photos/S1-3-1.jpg)
+![](/assets/posts/2025_photos/S1-3-2.jpg)
+![](/assets/posts/2025_photos/S2-2-1.jpg)
+![](/assets/posts/2025_photos/S2-2-2.jpg)
+![](/assets/posts/2025_photos/S2-3-1.jpg)
+![](/assets/posts/2025_photos/S2-3-2.jpg)
+![](/assets/posts/2025_photos/S2-5-1.jpg)
+![](/assets/posts/2025_photos/S2-5-2.jpg)
 
