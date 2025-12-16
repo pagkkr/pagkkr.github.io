@@ -27,7 +27,6 @@ header:
 ![](/assets/posts/2025_photos/S2-2-1.jpg)
 ![](/assets/posts/2025_photos/S2-2-2.jpg)
 ![](/assets/posts/2025_photos/S2-3-1.jpg)
-![](/assets/posts/2025_photos/S2-3-2.jpg)
 ![](/assets/posts/2025_photos/S2-5-1.jpg)
 ![](/assets/posts/2025_photos/S2-5-2.jpg)
 
