@@ -1,6 +1,6 @@
 ---
-title :  "2024 PAGK Annual Meeting"
-date :  "2024-12-18"
+title :  "2025 PAGK Annual Meeting"
+date :  "2025-12-03"
 categories : ['photos']
 tags :  ["Annual Meeting", "Workshop"]
 header:
@@ -9,10 +9,10 @@ header:
 ---
 
 
-2024 PAGK Annual Meeting 
+2025 PAGK Annual Meeting 
 
-- 일시: 2024년 12월 18일
-- 장소: 서울대병원 의생명연구원 1층 우덕 윤덕병 홀
+- 일시: 2025년 12월 3일
+- 장소: 연세대학교 의과대학 에비슨의생명연구센터 1층 유일한홀
 
 <!--[Google Photos](https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8){: .btn .btn--primary}-->
 
