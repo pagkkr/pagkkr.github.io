@@ -11,7 +11,7 @@ header:
 # 개요
 
 장소: 충남대학교 융합교육혁신센터 컨벤션홀 (101호) \
-시간: 2026년 12월 11일(수)
+시간: 2026년 12월 11일(금)
 
 # 안내 포스터
 [확인하기/Check](/assets/annual-meeting/PAGK_2026_Annual_Meeting 1116.pdf){: .btn .btn--primary}
